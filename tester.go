@@ -8,6 +8,8 @@ import (
 
 func main() {
 
+	// TODO: TDD Driven
+
 	url := "http://localhost:8080/videos"
 	method := "GET"
 

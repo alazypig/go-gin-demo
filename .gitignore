@@ -38,3 +38,12 @@ Thumbs.db
 test.db
 gin.log
 error.log
+
+otherExample/tcp/client
+otherExample/tcp/server
+otherExample/tcp-stick/client
+otherExample/tcp-stick/server
+otherExample/udp/client
+otherExample/udp/server
+otherExample/http/client
+otherExample/http/server

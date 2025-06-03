@@ -38,7 +38,9 @@ Thumbs.db
 test.db
 gin.log
 error.log
+**/*/trace.out
 
+scraper-result/
 otherExample/tcp/client
 otherExample/tcp/server
 otherExample/tcp-stick/client
@@ -47,3 +49,5 @@ otherExample/udp/client
 otherExample/udp/server
 otherExample/http/client
 otherExample/http/server
+otherExample/rpc/client
+otherExample/rpc/server
